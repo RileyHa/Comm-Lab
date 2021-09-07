@@ -5,9 +5,11 @@
 ### Wireframe
 
 **Below are the hand-drawn images :**
-![](bin/data/Slide1.png)
-![](bin/data/Slide2.png)
-![](bin/data/Slide3.png)
+![](bin/data/Slide1.jpeg)
+
+![](bin/data/Slide2.jpeg)
+
+![](bin/data/Slide3.jpeg)
 
 
 ### Story / Title
