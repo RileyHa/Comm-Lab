@@ -2,7 +2,7 @@
 
 ## Sep 23rd
 
-**Below are the hand-drawn images :**
+**Below are the screenshot images of each page :**
 ![](bin/data/page1.jpeg)
 
 ![](bin/data/page2.jpeg)
