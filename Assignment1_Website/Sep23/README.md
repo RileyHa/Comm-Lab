@@ -3,15 +3,15 @@
 ## Sep 23rd
 
 **Below are the screenshot images of each page :**
-![](bin/data/page1.jpeg)
+![](bin/data/page1.png)
 
-![](bin/data/page2.jpeg)
+![](bin/data/page2.png)
 
-![](bin/data/page3.jpeg)
+![](bin/data/page3.png)
 
-![](bin/data/page4.jpeg)
+![](bin/data/page4.png)
 
-![](bin/data/page5.jpeg)
+![](bin/data/page5.png)
 
 ### Story / Title
 
